@@ -1,0 +1,10 @@
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Models\obj\Debug\netcoreapp3.1\Models.pdb

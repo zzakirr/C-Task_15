@@ -1,0 +1,17 @@
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.exe
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.deps.json
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.runtimeconfig.json
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.runtimeconfig.dev.json
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.dll
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Practise_15.1.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.csproj.AssemblyReference.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.AssemblyInfoInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.AssemblyInfo.cs
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.csproj.CoreCompileInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.csproj.CopyComplete
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.dll
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\Practise_15.1\Practise_15.1\obj\Debug\netcoreapp3.1\Practise_15.1.genruntimeconfig.cache
